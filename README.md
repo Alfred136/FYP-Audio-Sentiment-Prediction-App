@@ -1,6 +1,11 @@
 # audio_emotion_analyzer
 
-A new Flutter project.
+This project is for the use of CS4514. 
+
+Functions:
+- record and save audio files locally
+- predict emotion from audio
+
 
 ## Getting Started
 
